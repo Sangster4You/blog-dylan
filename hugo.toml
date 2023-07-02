@@ -1,0 +1,46 @@
+languageCode = "en-us"
+title = "Blog Dylan"
+theme = "PaperMod"
+
+  
+
+[params.cover]
+  linkFullImages = true
+
+[params]
+  ShowBreadCrumbs = true
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+
+[params.homeInfoParams]
+  title = "Hello Space"
+  content = "Welcome to this space exploration come aboard the 🚀 into the universe"
+
+[[params.socialIcons]]
+  name = "instagram"
+  url = "www.instagram.com"
+
+
+
+
+  
+
+[menu]
+  [[menu.main]]
+    identifier = "Categories"
+    name = "Categories"
+    url = "categories"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "Tags"
+    name = "Tags"
+    url = "tags"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "Archives"
+    name = "Archives"
+    url = "archives"
+    weight = 30
