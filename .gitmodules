@@ -1,3 +1,5 @@
+# This is the PaperMod theme submodule
 [submodule "themes/PaperMod"]
     path = themes/PaperMod
     url = https://github.com/adityatelange/hugo-PaperMod.git
+    # The access token for this repo is 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
