@@ -6,7 +6,7 @@ cover:
   image: img/starbirth.jpg
   alt: "Space Image"
   caption: ""
-tags: ["html", "css"]
+tags: ["space", "universe"]
 categories: ["space"]
 ---
 
