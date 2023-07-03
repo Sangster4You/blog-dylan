@@ -13,19 +13,12 @@ theme = "PaperMod"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
+  author = "Observe"
 
 [params.homeInfoParams]
-  title = "Hello Space"
-  content = "Welcome to this space exploration come aboard the 🚀 into the universe"
+  title = "UNIVERSES"
+  content = "Explore the mysteries of multiverse theory, dark matter, and cosmic phenomena."
 
-[[params.socialIcons]]
-  name = "instagram"
-  url = "www.instagram.com"
-
-
-
-
-  
 
 [menu]
   [[menu.main]]
